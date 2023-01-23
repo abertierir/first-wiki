@@ -1,2 +1,2 @@
 # first-wiki
-Sample to test the wikis functionality
+This is a repository with wiki
